@@ -21,7 +21,7 @@ This application utilizes the OpenCV library to detect faces in real-time video 
 
 ## Installation
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/FaceDetection.git
+git clone https://github.com/MaverickWingman/FaceDetection.git
 
 3. Make sure you have OpenCV installed on your machine. You can download OpenCV from [OpenCV website](https://opencv.org/releases/).
 
